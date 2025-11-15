@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TechRaj
-- 👀 I’m interested in Artificial Intelligence and UI/UX
+- 👀 I’m interested in Artificial Intelligence and Full-stack
 - 🌱 I’m currently a Year 3 Computer Science Student at the National University of Singapore
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me Instagram, Twitter, Discord, Telegram, email
+- 📫 How to reach me Instagram, Discord, email
 
 <!---
 TechRaj/TechRaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
