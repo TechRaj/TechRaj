@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TechRaj
 - 👀 I’m interested in Artificial Intelligence and Full-stack
-- 🌱 I’m currently a Year 3 Computer Science Student at the National University of Singapore
+- 🌱 I’m currently a Final Year Computer Science Student at the National University of Singapore
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me Instagram, Discord, email
 
