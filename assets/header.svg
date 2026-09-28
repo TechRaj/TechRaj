@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title">
+  <title id="title">Karthikraj Sivakumar, software and AI engineer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#06140e"/>
+      <stop offset="1" stop-color="#0c2a1c"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#4ade80" fill-opacity="0.09"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="300" rx="16"/></clipPath>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif; }
+      .fade { animation: in 0.9s ease-out backwards; }
+      .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.35s; } .d3 { animation-delay: 0.6s; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <rect width="1200" height="300" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="16" fill="none" stroke="#4ade80" stroke-opacity="0.18"/>
+
+  <g class="fade d1">
+    <text x="72" y="98" class="mono" font-size="18" fill="#4ade80" fill-opacity="0.85">~/techraj</text>
+    <text x="178" y="98" class="mono" font-size="18" fill="#86efac" fill-opacity="0.5">$ whoami</text>
+  </g>
+
+  <text x="68" y="170" class="sans fade d2" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#ecfdf5">Karthikraj Sivakumar</text>
+
+  <g class="fade d3">
+    <text x="72" y="222" class="mono" font-size="20" fill="#a7f3d0" fill-opacity="0.8">Software and AI engineer · CS @ NUS · Toronto <tspan fill="#4ade80" fill-opacity="1" class="cursor">▍</tspan></text>
+  </g>
+</svg>

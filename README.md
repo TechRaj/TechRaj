@@ -1,19 +1,19 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Karthikraj%20Sivakumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20and%20AI%20engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Karthikraj Sivakumar, software and AI engineer" width="100%" />
+  <img src="./assets/header.svg" alt="Karthikraj Sivakumar, software and AI engineer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://techrajx.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+AI+for+building-permit+compliance+%40+Trax;CS+%40+NUS%2C+graduating+2027;I+build+things+people+actually+use." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=4ADE80&center=true&vCenter=true&width=620&lines=Building+AI+for+building-permit+compliance+%40+Trax;CS+%40+NUS%2C+graduating+2027;I+build+things+people+actually+use." alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://techrajx.com"><img src="https://img.shields.io/badge/techrajx.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://techrajx.com"><img src="https://img.shields.io/badge/techrajx.com-0c2a1c?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://linkedin.com/in/techraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:skarthikraj0207@gmail.com"><img src="https://img.shields.io/badge/Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TechRaj&color=1e3a8a&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <a href="mailto:skarthikraj0207@gmail.com"><img src="https://img.shields.io/badge/Email-15803d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TechRaj&color=166534&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ### Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TechRaj&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=TechRaj&hide_border=true&background=06140E&stroke=1F3D2E&ring=4ADE80&fire=4ADE80&currStreakNum=ECFDF5&currStreakLabel=4ADE80&sideNums=ECFDF5&sideLabels=A7F3D0&dates=6B8F7B" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
@@ -61,7 +61,3 @@
   </picture>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0f172a&height=110&section=footer" alt="" width="100%" />
-</p>
