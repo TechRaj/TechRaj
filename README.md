@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://techrajx.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+AI+for+building-permit+compliance+%40+Trax;CS+%40+NUS%2C+graduating+2027;Hack+the+North+2026+%E2%80%94+2nd+in+the+GPTZero+track;I+build+things+people+actually+use." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+AI+for+building-permit+compliance+%40+Trax;CS+%40+NUS%2C+graduating+2027;I+build+things+people+actually+use." alt="Typing intro" />
   </a>
 </p>
 
@@ -20,10 +20,10 @@
 
 ### About me
 
-- 🏗️ In Toronto this year at **[Trax](https://trax.co)**, building an AI system that checks building-permit applications against a municipality's requirements and flags what's missing
-- 💸 Before that at **Perfingo**, shipping group expenses that split bills across currencies and still come out exact
-- 🎓 Computer Science @ **NUS**, graduating 2027. Co-founded NUS Computing's first AI society and was its VP for a year
-- 🚴 Away from the keyboard: bikes, trails and mountains. Former VP of Cycling at NUS Outdoor Adventures
+- 🏗️ In Toronto this year at **[Trax](https://trax.co)**, working on building regulations
+- 💸 Before that at **Perfingo**, working on making personal finance fun
+- 🎓 Computer Science @ **NUS**, graduating 2027. Co-founded NUS Computing's first AI society
+- 🚴 Away from the keyboard: bikes, trails and mountains. Former VP of Cycling at NUS Outdoor Adventures Club
 - 📫 **Open to 2027 new-grad software and AI engineering roles**
 
 ### Stack
